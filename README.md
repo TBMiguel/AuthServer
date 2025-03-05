@@ -2,5 +2,6 @@
 
 ### Informações
 Integrante: Miguel Moacir Padilha Junior
+Curso: Pós Mobile - App Dev 2023-1 PUCPR
 
-* [Vídeo Apresentação Aplicação]()
+* [Vídeo Apresentação Aplicação](https://youtu.be/RliKSuaa_WI)
